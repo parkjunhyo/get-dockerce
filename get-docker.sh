@@ -27,4 +27,4 @@ sudo systemctl daemon-reload
 sudo service docker restart
 
 docker info
-netstat -anput | grep -i li
+netstat -anput
